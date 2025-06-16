@@ -32,5 +32,5 @@ install.packages(c("terra", "sf", "ggplot2", "RStoolbox", "exactextractr", "tidy
 
 ## How to Run
 
-1. Run the R script `ndvi_analysis.R` to load data and generate outputs.
+1. Run the script in R and Google Earth Engine located on /Scripts to load data and generate outputs.
 2. The `.js` file can be used in Google Earth Engine for NDVI visualization.
